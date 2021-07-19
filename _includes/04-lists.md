@@ -1,0 +1,5 @@
+- Fun programming challenges
+- Playing CS
+- Listening to music
+- Listening to audiobooks
+- Long walks
