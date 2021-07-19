@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Fun programming challenges
+- Playing CS
+- Listening to music
+- Listening to audiobooks
+- Long walks
